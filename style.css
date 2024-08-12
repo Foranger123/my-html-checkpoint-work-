@@ -1,0 +1,61 @@
+nav {
+    border-color: grey;
+    border-style: solid;
+    background-color:rgb(122, 112, 112);
+    width: 458px;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    align-content: center;
+    margin-left: 500px;
+    color: bisque;
+    
+    
+}
+nav a {
+    text-decoration: none;
+    color: white;
+}
+#img {
+border-color: blue;
+border-style: solid;
+border-width: 5px;
+border-radius: 10%;
+}
+
+#home {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+#about {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+#work {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+#work table {
+    background-color: blueviolet;    
+}
+#resume {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+/* #contact {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+} */
+#lista li {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+    font-size: large;
+}
